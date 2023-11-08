@@ -60,6 +60,7 @@ Este software está sendo distribuido sob a licença MIT. O link oficial da lice
 
 ## Changelog
 
+- 08/11/2023 - versão 1.5 - adicionado imagem de publicidade.
 - 20/06/2023 - versão 1.4 - melhorado o visual com bootstrap.
 - 20/06/2023 - versão 1.3 - melhorado o visual com bootstrap.
 - 20/06/2023 - versão 1.2 - melhorado o visual com bootstrap.
